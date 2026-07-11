@@ -11,6 +11,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Dummy {
-    @Id private String id;
-
+  @Id private String id;
 }
